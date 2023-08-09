@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.4ae8120d.css",
-    "main.js": "/static/js/main.6ba5f28c.js",
+    "main.js": "/static/js/main.cc3a3214.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/eccomerce.png": "/static/media/eccomerce.b44115f7f987137df6a1.png",
     "static/media/portfolio.png": "/static/media/portfolio.ec12b73ead322a36890c.png",
-    "static/media/Praphool Kumar.pdf": "/static/media/Praphool Kumar.cf97ca7368a7251de1a9.pdf",
     "static/media/pk.png": "/static/media/pk.e475a3c6b664b19781f3.png",
+    "static/media/p.png": "/static/media/p.7eb90deff1d984cf608d.png",
+    "static/media/praphool.pdf": "/static/media/praphool.6355752734e7a3e9d789.pdf",
     "static/media/weather.png": "/static/media/weather.2e28836f3b877288e6da.png",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/blog.jpeg": "/static/media/blog.33963cd7fe5f35b8d80e.jpeg",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/doctorappoint.png": "/static/media/doctorappoint.5302d8908f4a5ae0d22d.png",
@@ -18,12 +18,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.4ae8120d.css.map": "/static/css/main.4ae8120d.css.map",
-    "main.6ba5f28c.js.map": "/static/js/main.6ba5f28c.js.map",
+    "main.cc3a3214.js.map": "/static/js/main.cc3a3214.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ae8120d.css",
-    "static/js/main.6ba5f28c.js"
+    "static/js/main.cc3a3214.js"
   ]
 }
